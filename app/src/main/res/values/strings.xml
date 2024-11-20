@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MyStories</string>
+    <string name="invalid_email">Invalid email format</string>
+    <string name="invalid_name">Name must be at least 3 characters</string>
+    <string name="invalid_password">Password must be at least 8 characters</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="welcome">Welcome to MyStories</string>
 </resources>
