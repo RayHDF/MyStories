@@ -1,4 +1,4 @@
-package com.rayhdf.mystories.ui.auth
+package com.rayhdf.mystories.ui.auth.login
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
